@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656455221720",
+    "project_id": "newfr-a75be",
+    "storage_bucket": "newfr-a75be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656455221720:android:e28f401e10ec133448b2ad",
+        "android_client_info": {
+          "package_name": "kz.tengrilab.frredesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656455221720-s00k2te0br6ihkfulb38urvgipj9vjvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Mi9EY9vmURtkWIl893t-Olbf_lYar2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656455221720-s00k2te0br6ihkfulb38urvgipj9vjvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
